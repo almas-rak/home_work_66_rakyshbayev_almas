@@ -12,7 +12,7 @@ for (i in divs) {
     if (i < 3){
         divs[i].style.color = 'red' 
     }
-    else if(i > 3 && i < 5){
+    else if(i > 2){
         divs[i].style.color = 'green' 
     }  
 }
